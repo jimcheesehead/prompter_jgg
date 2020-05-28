@@ -1,0 +1,7 @@
+name: prompter_jgg
+version: 0.0.1
+description: Library to create CLI wizards
+homepage: https://github.com/jimcheesehead/prompter_jgg
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"

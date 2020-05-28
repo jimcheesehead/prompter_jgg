@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "prompter_jgg",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.7"
+    }
+  ],
+  "generated": "2020-05-28T11:14:11.668265Z",
+  "generator": "pub",
+  "generatorVersion": "2.9.0-11.0.dev"
+}
